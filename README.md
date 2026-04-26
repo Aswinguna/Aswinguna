@@ -1,6 +1,6 @@
 # Heyy There!👋
 
-💡 Building production-ready ML systems with real-world impact
+💡Building production-ready ML systems with real-world impact!
 
 I'm a Data Science enthusiast based in Paris, passionate about building end-to-end machine learning systems that solve real-world problems. I enjoy working across pipelines - from data processing and modeling to deploying solutions that are actually used.
 
