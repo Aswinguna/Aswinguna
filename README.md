@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Heyy There!👋
 Data becomes valuable the moment it changes a decision.
 
 The world has enough dashboards. I build systems that make decisions. At Younote, a fast-moving B2B SaaS startup, I shipped 3 independent projects in 6 months: an NLP chatbot that gave the sales team a conversational way to query their own metrics, a real-time analytics pipeline that replaced end-of-week exports with live operational data, and a receipt system that cut recurring software costs by removing a third-party dependency entirely.
