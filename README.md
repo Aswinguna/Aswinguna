@@ -1,5 +1,4 @@
 # Heyy There!👋
-Data becomes valuable the moment it changes a decision.
 
 The world has enough dashboards. I build systems that make decisions.
 
