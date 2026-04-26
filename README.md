@@ -1,11 +1,13 @@
 # Heyy There!👋
 Data becomes valuable the moment it changes a decision.
 
-The world has enough dashboards. I build systems that make decisions. At Younote, a fast-moving B2B SaaS startup, I shipped 3 independent projects in 6 months: an NLP chatbot that gave the sales team a conversational way to query their own metrics, a real-time analytics pipeline that replaced end-of-week exports with live operational data, and a receipt system that cut recurring software costs by removing a third-party dependency entirely.
+The world has enough dashboards. I build systems that make decisions.
 
-That hands-on work led to research. I built a dynamic pricing ML pipeline on 100K ride records - XGBoost outperformed all models, with 95% pickup time accuracy and a simulated 10–15% revenue uplift. That was presented at an international engineering conference (ICCETSP'25) in Chennai. I also published an ML discount prediction system in a peer-reviewed international journal (IRJMETS'24, Impact Factor 8.187).
+I'm a Data Science enthusiast based in Paris, passionate about building end-to-end machine learning systems that solve real-world problems. I enjoy working across pipelines - from data processing and modeling to deploying solutions that are actually used.
 
-Now based in Paris, pursuing an MSc in Artificial Intelligence & Marketing Strategy at EPITA School of Computer Science and Engineering × EM Normandie Business School (Joint Program), where AI engineering meets strategic business thinking.
+Hands-on experiences during my internship, I have built and deployed production-level data pipelines, automated workflows, and developed NLP systems for tasks like text classification and information extraction. My key projects include end-to-end machine learning systems such as dynamic pricing models and real-time prediction systems, focusing on both performance and practical impact.
+
+I’m particularly interested in scalable data systems, ML in production, and applying AI to drive data-driven decision-making.
 
 
 ## 🌐 Socials:
